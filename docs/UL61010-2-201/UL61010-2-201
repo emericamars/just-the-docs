@@ -2,6 +2,8 @@
 layout: default
 title: UL61010-2-201
 nav_order: 8
+has_children: true
+permalink: /docs/UL61010-2-201
 ---
 
 UL 61010-1 and UL 61010-2-201 <br>
